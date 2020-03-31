@@ -1,4 +1,4 @@
-Preview images. Full video https://www.youtube.com/watch?v=u4fmPCqRxJY&feature=youtu.be
+Preview images.
 
 
 ![vlcsnap-error817](https://user-images.githubusercontent.com/35193519/57191584-9182dd80-6f6a-11e9-8972-e4d1c337102f.png)
